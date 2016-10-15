@@ -1,0 +1,10 @@
+JOGO TIRO AO PATO
+
+COMO EXECUTAR
+Abra o terminal e vá até o diretório onde o Makefile está
+execute o comando make run
+
+FUNCIONALIDADES
+-Textura animada (sprite sheet)
+-Pontuação (25 a cada tiro certeiro)
+-Telas
